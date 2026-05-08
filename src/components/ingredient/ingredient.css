@@ -8,7 +8,7 @@
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
-    margin-right: 50px;
+    margin-right: 120px;
 }
 
 .btn {
@@ -20,4 +20,6 @@
 .itemInfo {
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid #000;
+    padding: 10px;
 }

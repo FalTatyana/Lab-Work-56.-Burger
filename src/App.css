@@ -19,6 +19,7 @@ body {
 .wrapperBurger {
   display: flex;
   flex-direction: column;
+  border-bottom: 1px solid #000;
 }
 
 .totalPrice {
