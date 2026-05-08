@@ -1,0 +1,16 @@
+.ingrImg {
+    width: 80px;
+}
+
+.item {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.btnRemove {
+    border: none;
+    background-color: white;
+}
