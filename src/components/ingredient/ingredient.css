@@ -8,9 +8,16 @@
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
+    margin-right: 50px;
 }
 
-.btnRemove {
+.btn {
     border: none;
     background-color: white;
+    cursor: pointer;
+}
+
+.itemInfo {
+    display: flex;
+    justify-content: space-between;
 }
